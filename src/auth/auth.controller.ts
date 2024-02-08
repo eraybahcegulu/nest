@@ -21,7 +21,7 @@ export class AuthController {
 
   /*
     {
-      Headers.authorization => Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NWMwZDg3YWMwNjA2NDE5MWFjYTMxMzkiLCJ1c2VyTmFtZSI6ImVyYXliYWhjZWd1bHUiLCJlbWFpbCI6ImVyYXliYWhjZWd1bHVAZ21haWwuY29tIiwidXNlclJvbGUiOiJhZG1pbiIsImlhdCI6MTcwNzEzOTk5Nn0.FZcVkIwoOldPNodqSpNYfeEOe1nvVibUAOYmMPafu-w
+      Headers.authorization => Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJlcmF5YmFoY2VndWx1QGdtYWlsLmNvbSIsImlhdCI6MTcwNzM5NTc3Nn0.ktR9X2-_Q732E35SrTS6jnC9HTrz-2DtIjZq7Eb98Gg
     }
   */
   @Get('getUserInfo')
